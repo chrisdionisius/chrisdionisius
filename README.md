@@ -1,5 +1,10 @@
-### Hi there 👋
+### Yono here 👋
 - 🌱 I’m currently learning Springboot, Laravel, and Flutter
+- 🤔 I’m looking for help with Java
+- ⚡ Fun fact: don't have any, ehe
+
+<br/>
+<br/>
 
 <p align="center">
   <a href="#" align="center">

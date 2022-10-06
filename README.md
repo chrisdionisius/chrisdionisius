@@ -1,10 +1,9 @@
 
 ## Hola, Yono here 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=chrisdionisius)
-- 🌱 I’m currently learning Springboot, Laravel, and Flutter
+- 🌱 I’m currently learning Springboot, Laravel, Flutter, and React
 - 🤔 I’m looking for help with Java
 - ⚡ Fun fact: don't have any, ehe
-- 😄 Pronouns: Attack helicopter
 
 ## Reach me
 

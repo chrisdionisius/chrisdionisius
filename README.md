@@ -36,7 +36,7 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=chrisdionisius&count_private=true&show_icons=true&theme=aura_dark" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdionisius&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdionisius&hide=c%23,html,asp.net&theme=aura_dark&langs_count=6" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdionisius&hide=c%23,html,asp.net,jupyter%20notebook&theme=aura_dark&langs_count=6" />
 </a>
 </div>
 

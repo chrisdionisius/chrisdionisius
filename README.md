@@ -1,9 +1,9 @@
 
 ## Hola, Yono here 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=chrisdionisius)
-- 🌱 I’m currently learning Springboot, Laravel, Flutter, and React
-- 🤔 I’m looking for help with Java
-- ⚡ Fun fact: don't have any, ehe
+- 🌱 I’m currently learning Springboot, Laravel, Flutter, Next.JS, React Native
+- 🤔 I’m looking for help with React
+- ⚡ Fun fact: I do exist, and existing is fun
 
 ## Reach me
 
@@ -29,6 +29,10 @@
 
 <br />
 <br />
+
+## Waka(ta)time
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Github Stats:
 <div>

@@ -32,6 +32,23 @@
 
 ## Waka(ta)time
 <!--START_SECTION:waka-->
+
+```text
+From: 02 December 2021 - To: 13 April 2023
+
+Total Time: 955 hrs 24 mins
+
+Dart             377 hrs 5 mins  >>>>>>>>>>---------------   39.47 %
+PHP              212 hrs 5 mins  >>>>>>-------------------   22.20 %
+JavaScript       206 hrs 40 mins >>>>>--------------------   21.63 %
+Blade Template   85 hrs 31 mins  >>-----------------------   08.95 %
+HTML             20 hrs 32 mins  >------------------------   02.15 %
+YAML             8 hrs 24 mins   -------------------------   00.88 %
+JSON             8 hrs 20 mins   -------------------------   00.87 %
+Bash             5 hrs 36 mins   -------------------------   00.59 %
+Other            4 hrs 31 mins   -------------------------   00.47 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Github Stats:

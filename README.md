@@ -34,18 +34,18 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2021 - To: 16 April 2023
+From: 02 December 2021 - To: 17 April 2023
 
-Total Time: 955 hrs 24 mins
+Total Time: 961 hrs
 
-Dart             377 hrs 5 mins  >>>>>>>>>>---------------   39.47 %
-PHP              212 hrs 5 mins  >>>>>>-------------------   22.20 %
-JavaScript       206 hrs 40 mins >>>>>--------------------   21.63 %
-Blade Template   85 hrs 31 mins  >>-----------------------   08.95 %
-HTML             20 hrs 32 mins  >------------------------   02.15 %
-YAML             8 hrs 24 mins   -------------------------   00.88 %
-JSON             8 hrs 20 mins   -------------------------   00.87 %
-Bash             5 hrs 36 mins   -------------------------   00.59 %
+Dart             377 hrs 5 mins  >>>>>>>>>>---------------   39.24 %
+PHP              212 hrs 5 mins  >>>>>>-------------------   22.07 %
+JavaScript       211 hrs 59 mins >>>>>>-------------------   22.06 %
+Blade Template   85 hrs 31 mins  >>-----------------------   08.90 %
+HTML             20 hrs 32 mins  >------------------------   02.14 %
+JSON             8 hrs 34 mins   -------------------------   00.89 %
+YAML             8 hrs 24 mins   -------------------------   00.87 %
+Bash             5 hrs 36 mins   -------------------------   00.58 %
 Other            4 hrs 31 mins   -------------------------   00.47 %
 ```
 

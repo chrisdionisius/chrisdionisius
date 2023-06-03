@@ -33,8 +33,8 @@
 ## Waka(ta)time
 <!--START_SECTION:waka-->
 
-```text
-From: 02 December 2021 - To: 31 May 2023
+```txt
+From: 02 December 2021 - To: 01 June 2023
 
 Total Time: 1,099 hrs 17 mins
 

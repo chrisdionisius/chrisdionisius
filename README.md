@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2021 - To: 11 September 2024
+From: 02 December 2021 - To: 12 September 2024
 
-Total Time: 2,032 hrs 19 mins
+Total Time: 2,035 hrs 38 mins
 
-TypeScript       748 hrs 43 mins >>>>>>>>>----------------   36.84 %
-Dart             484 hrs 13 mins >>>>>>-------------------   23.83 %
-JavaScript       327 hrs 59 mins >>>>---------------------   16.14 %
-PHP              213 hrs 41 mins >>>----------------------   10.51 %
-Blade Template   85 hrs 31 mins  >------------------------   04.21 %
+TypeScript       752 hrs 1 min   >>>>>>>>>----------------   36.94 %
+Dart             484 hrs 13 mins >>>>>>-------------------   23.79 %
+JavaScript       327 hrs 59 mins >>>>---------------------   16.11 %
+PHP              213 hrs 41 mins >>>----------------------   10.50 %
+Blade Template   85 hrs 31 mins  >------------------------   04.20 %
 C#               40 hrs 7 mins   -------------------------   01.97 %
 Other            31 hrs 19 mins  -------------------------   01.54 %
 JSON             22 hrs 14 mins  -------------------------   01.09 %

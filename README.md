@@ -34,11 +34,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2021 - To: 03 February 2025
+From: 02 December 2021 - To: 04 February 2025
 
-Total Time: 2,206 hrs 5 mins
+Total Time: 2,206 hrs 18 mins
 
-TypeScript       911 hrs 45 mins >>>>>>>>>>---------------   41.33 %
+TypeScript       911 hrs 58 mins >>>>>>>>>>---------------   41.33 %
 Dart             484 hrs 13 mins >>>>>--------------------   21.95 %
 JavaScript       328 hrs 6 mins  >>>>---------------------   14.87 %
 PHP              213 hrs 41 mins >>-----------------------   09.69 %
